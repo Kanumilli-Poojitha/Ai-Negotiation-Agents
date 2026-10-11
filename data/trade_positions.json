@@ -1,0 +1,22 @@
+{
+  "usa": {
+    "priorities": [
+      "Reduce tariffs on technology products",
+      "Strengthen intellectual property (IP) protection clauses"
+    ],
+    "flexibility": {
+      "tariffs": 0.7,
+      "ip_protection": 0.3
+    }
+  },
+  "china": {
+    "priorities": [
+      "Gain greater market access for agricultural products",
+      "Limit restrictions on technology transfer"
+    ],
+    "flexibility": {
+      "market_access": 0.8,
+      "tech_transfer_limits": 0.4
+    }
+  }
+}
